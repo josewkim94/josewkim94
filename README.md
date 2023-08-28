@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**josewkim94/josewkim94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou José Wilson! 👋
+Sou um desenvolvedor aspirante do Paraná, Brasil, atualmente aprimorando minhas habilidades em desenvolvimento back-end na Cubos Academy. 
 
-Here are some ideas to get you started:
+Tecnologias que conheço:
+Linguagens de Programação: JavaScript
+Tecnologias Back-end: Node.js, API REST
+Banco de Dados: PostgreSQL, Sequelize (ORM)
+Controle de Versão: Git, GitHub
+Front-end (bases): HTML, CSS, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou sempre em busca de novos projetos desafiadores que me permitam crescer e aprender. 
+Se você tiver ideias interessantes ou estiver procurando colaboração em algum projeto, ficarei feliz em ajudar no que puder. 
+Sinta-se à vontade para entrar em contato se achar que posso contribuir de alguma forma. 
